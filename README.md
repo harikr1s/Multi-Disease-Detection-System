@@ -18,12 +18,9 @@ The machine learning models used in this application were trained using Google's
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/multi-disease-detection.git
-   cd multi-disease-detection
-2. Install the required dependencies using pip:
-   ```bash
-   pip install -r requirements.txt
-3. Run the streamlit application:
+   git clone https://github.com/harikr1s/Multi-Disease-Detection-System.git
+   cd Multi-Disease-Detection-System
+2. Run the streamlit application:
    ```bash
    streamlit run main.py
 
