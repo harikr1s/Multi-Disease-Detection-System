@@ -1,0 +1,4 @@
+0 Glioma
+1 Meningioma
+2 Healthy
+3 Pituitary-Adenoma
