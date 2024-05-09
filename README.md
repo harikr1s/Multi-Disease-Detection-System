@@ -6,6 +6,8 @@ This Streamlit application is designed for multi-disease detection using machine
 
 The application is built using Python and Streamlit, providing an interactive and user-friendly interface for medical image analysis. It incorporates deep learning models trained on diverse medical datasets to predict diseases such as brain tumors, lung pneumonia, and kidney cancer from corresponding MRI, X-ray, and CT scan images.
 
+![Preview](https://drive.google.com/uc?export=download&id=153rC-VLJijR8AzyFVu2S2i2-bT__f0ik)
+
 ## Models and Datasets
 
 The machine learning models used in this application were trained using Google's Teachable Machine platform. The datasets used for training these models are publicly available on Kaggle:
@@ -26,7 +28,6 @@ The machine learning models used in this application were trained using Google's
 3. Run the streamlit application:
    ```bash
    streamlit run main.py
-
 
 ## Usage
 
@@ -57,6 +58,8 @@ The machine learning models used in this application were trained using Google's
 - Google's Teachable Machine for model training capabilities.
 - Kaggle for providing diverse and labeled medical datasets for training and testing.
 - Streamlit for enabling rapid development and deployment of interactive web applications.
+- The background images used in this project were sourced from [IlNaz Ismagilov on Vecteezy](https://www.vecteezy.com/members/ilnaz-ismagilov-201529069)
+
 
 
 
