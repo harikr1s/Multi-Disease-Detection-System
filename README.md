@@ -48,14 +48,6 @@ The machine learning models used in this application were trained using Google's
 - NumPy
 - Matplotlib
 
-## Acknowledgements
-
-- Google's Teachable Machine for model training capabilities.
-- Kaggle for providing diverse and labeled medical datasets for training and testing.
-- Streamlit for enabling rapid development and deployment of interactive web applications.
-- The background images used in this project were sourced from [IlNaz Ismagilov on Vecteezy](https://www.vecteezy.com/members/ilnaz-ismagilov-201529069)
-
-
 
 
 
